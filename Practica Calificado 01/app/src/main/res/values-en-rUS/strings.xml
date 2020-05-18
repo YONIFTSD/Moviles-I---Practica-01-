@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica 01 - Mamani Calisaya Yonathan</string>
+    <string name="str_bienvenido">Welcome</string>
+    <string name="str_primera_frase">First Phrase</string>
+    <string name="str_segunda_frase">Second Phrase</string>
+    <string name="str_nro_vocales">Number of Vowels :</string>
+    <string name="str_frase_1">Sentence 1 :</string>
+    <string name="str_frase_2">Sentence 2 :</string>
+    <string name="str_frases_son_iguales">Are the sentences the same?</string>
+    <string name="str_comparar_frases">COMPARE PHRASES</string>
+    <string name="str_limpiar">CLEAR</string>
+</resources>
